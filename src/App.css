@@ -1,0 +1,43 @@
+.contenedor{
+    margin: 0 auto;
+    width: min(800px, 95%);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.titulo{
+    text-align: center;
+}
+.contenedor hr{
+    border: thin solid grey;
+}
+
+/* Estilos para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #5798d8;
+}
+
+th {
+    background-color: #5798d8;
+}
+
+img {
+    border-radius: 5px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
